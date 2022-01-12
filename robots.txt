@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://thebestrestaurants.github.io/workout-machine/sitemapx.xml
